@@ -70,13 +70,85 @@ aprenentatge contínu i adaptabilitat.
 
 # IPOP Àmbits de Coneixement
 
-|Qualificació Professional|Unitats de competència| Mòduls Professionals |
-|-------------------------|----------------------|----------------------|
-|          Completa       |         
+## CICLE FORMATIU GRAU MITJA SISTEMES MICROINFORMATICS EN XARXA
 
+### Qualificació professional 
+- COMPLETA
 
+### Unitats de competència
+- UC1: Muntar i configurar equips microinformàtics.
+- UC2: Instal·lar i mantenir programari del sistema microinformàtic.
+- UC3: Diagnosticar i solucionar avaries hardware.
+- UC4: Administrar sistemes operatius monopost.
+- UC5: Implementar xarxes locals.
+- UC6: Instal·lar i configurar programari de propòsit general i aplicacions específiques.
+- UC7: Implementar i mantenir serveis a la xarxa local.
+- UC8: Administrar i mantenir serveis d'accés a xarxes.
+- UC9: Implementar i mantenir sistemes de seguretat física i lògica.
+- UC10: Desenvolupar aplicacions multiplataforma.
+- UC11: Desenvolupar interfícies gràfiques d'usuari.
+- UC12: Desenvolupar elements multimèdia i dispositius mòbils.
+- UC13: Realitzar proves d'aplicacions multiplataforma.
+- UC14: Documentar aplicacions multiplataforma.
+- UC15: Emprendre i innovar en l'àmbit de la programació.
+- UC16: Realitzar el manteniment i suport d'aplicacions multiplataforma.
+- UC17: Col·laborar en l'anàlisi i disseny d'aplicacions multiplataforma.
 
+### Moduls Profesionals
+1. Sistemes informàtics.
+2. Bases de dades.
+3. Programació.
+4. Llenguatges de marques i sistemes de gestió dinformació.
+5. Entorns de desenvolupament.
+6. Formació i orientació laboral.
+7. Empresa i iniciativa emprenedora.
+8. Anglès tècnic per a informàtica.
+9. Aplicacions ofimàtiques.
+10. Xarxes locals.
+11. Serveis en xarxa.
+12. Seguretat informàtica.
+13. Desenvolupament d'aplicacions amb tecnologies web.
+14. Desenvolupament dinterfícies.
+15. Programació multimèdia i dispositius mòbils.
+16. Projecte de desenvolupament d'aplicacions multiplataforma.
+17. Formació en centres de treball (pràctiques professionals).
 
+### Àrea de coneixement
+Desenvolupament de software
+
+## CICLE FORMATIU GRAU SUPERIOR DESENVOLUPAMENT D'APLICACIONS WEB
+
+### Qualificació professional 
+- INCOMPLETA
+
+### Unitats de competència
+- UC0965_3: Analitzar les necessitats dels usuaris per a determinar els requisits de les aplicacions web.
+- UC0966_3: Dissenyar la interfície gràfica d'aplicacions web.
+- UC0967_3: Desenvolupar elements software en el client.
+- UC0968_3: Desenvolupar elements software en el servidor.
+- UC0969_3: Desplegar aplicacions web en un entorn de producció.
+- UC0970_3: Validar i optimitzar aplicacions web.
+
+### Moduls Profesionals
+1. Programación.
+2. Entornos de desarrollo.
+3. Desarrollo de interfaces.
+4. Bases de datos.
+5. Programación multimedia y dispositivos móviles.
+6. Acceso a datos.
+7. Desarrollo web en entorno cliente.
+8. Desarrollo web en entorno servidor.
+9. Despliegue de aplicaciones web.
+10. Diseño de interfaces web.
+11. Empresa e iniciativa emprendedora.
+12. Inglés técnico para informática.
+13. Sistemas de gestión empresarial.
+14. Formación y orientación laboral.
+15. Proyecto de desarrollo de aplicaciones web.
+16. Formación en centros de trabajo (prácticas profesionales).
+
+### Àrea de coneixement
+Desenvolupament web
 
 
 
