@@ -130,23 +130,22 @@ Desenvolupament de software
 - UC0970_3: Validar i optimitzar aplicacions web.
 
 ### Moduls Profesionals
-1. Programación.
-2. Entornos de desarrollo.
-3. Desarrollo de interfaces.
-4. Bases de datos.
-5. Programación multimedia y dispositivos móviles.
-6. Acceso a datos.
-7. Desarrollo web en entorno cliente.
-8. Desarrollo web en entorno servidor.
-9. Despliegue de aplicaciones web.
-10. Diseño de interfaces web.
-11. Empresa e iniciativa emprendedora.
-12. Inglés técnico para informática.
-13. Sistemas de gestión empresarial.
-14. Formación y orientación laboral.
-15. Proyecto de desarrollo de aplicaciones web.
-16. Formación en centros de trabajo (prácticas profesionales).
-
+1. Programació.
+2. Entorns de desenvolupament.
+3. Desenvolupament dinterfícies.
+4. Bases de dades.
+5. Programació multimèdia i dispositius mòbils.
+6. Accés a dades.
+7. Desenvolupament web en entorn client.
+8. Desenvolupament web en entorn servidor.
+9. Desplegament de les aplicacions web.
+10. Disseny dinterfícies web.
+11. Empresa i iniciativa emprenedora.
+12. Anglès tècnic per a informàtica.
+13. Sistemes de gestió empresarial.
+14. Formació i orientació laboral.
+15. Projecte de desenvolupament d'aplicacions web.
+16. Formació en centres de treball (pràctiques professionals).
 ### Àrea de coneixement
 Desenvolupament web
 
