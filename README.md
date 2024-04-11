@@ -18,6 +18,24 @@ usabilitat i qualitat exigides en els estàndards establerts.
 Són les capacitats transversals que afecten diferents llocs de treball i que són transferibles a noves situacions de treball. Entre aquestes capacitats destaquen les d’autonomia, d’innovació, d’organització del treball, de responsabilitat, de relació interpersonal, de treball en equip i de resolució de problemes.
 2.4 L’equip docent ha de potenciar l’adquisició de les competències professionals, personals i socials i de les capacitats clau a partir de les activitats programades per desplegar el currículum d’aquest cicle formatiu.
 
+| Mòduls Professionals|Hores de durada|
+|---------------------|---------------|
+| Sistemes informàtics|	198 hores |
+| Bases de dades |	231 hores |
+| Programació |	297 hores |
+| Llenguatge de marques |	99 hores |
+| Entorns de desenvolupament |	66 hores |
+| Desenvolupament web en entorn client |	165 hores |
+| Desenvolupament web en entorn servidor |	165 hores |
+| Desplegament d’aplicacions web |	99 hores |
+| Disseny d’interfícies web |	99 hores |
+| Formació i orientació laboral |	 99 hores |
+| Empresa i iniciativa emprenedora |	66 hores |
+| Projecte de desenvolupament d’aplicacions web |	99 hores |
+| Formació en centres de treball |	317 hores |
+
+
+
 ## Sortides Laborals
 1.	Desenvolupador web frontend:
 - Adobe:
@@ -49,6 +67,13 @@ en un camp en constant evolució. A més, l'adaptabilitat a canvis i noves tecno
 clau per a l'èxit en el desenvolupament web. En resum, les competències professionals inclouen coneixement
 tècnic, gestió de projectes, resolució de problemes, col·laboració, comunicació, compromís amb la qualitat,
 aprenentatge contínu i adaptabilitat.
+
+# IPOP Àmbits de Coneixement
+
+|Qualificació Professional|Unitats de competència| Mòduls Professionals |
+|-------------------------|----------------------|----------------------|
+|          Completa       |         
+
 
 
 
